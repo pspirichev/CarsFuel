@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="us0">Low Quality - 76</string>
+    <string name="us1">Regular - 87</string>
+    <string name="us2">Plus - 91</string>
+    <string name="us3">Premium - 93</string>
+    <string name="us4">Racing - 100+</string>
+    <string name="us5">E75</string>
+    <string name="us6">E85</string>
+    <string name="us7">AutoGas</string>
+    <string name="us8">Truck Diesel</string>
+    <string name="us9">Hi-Quality Diesel</string>
+
+    <string name="eu0">Low Quality</string>
+    <string name="eu1">Regular</string>
+    <string name="eu2">Premium</string>
+    <string name="eu3">SuperPlus</string>
+    <string name="eu4">Racing - 100+</string>
+    <string name="eu5">E75</string>
+    <string name="eu6">E85</string>
+    <string name="eu7">AutoGas</string>
+    <string name="eu8">Truck Diesel</string>
+    <string name="eu9">Hi-Quality Diesel</string>
+
+    <string name="ci0">AI-80</string>
+    <string name="ci1">AI-92</string>
+    <string name="ci2">AI-95</string>
+    <string name="ci3">AI-98</string>
+    <string name="ci4">AI-100+</string>
+    <string name="ci5">E75</string>
+    <string name="ci6">E85</string>
+    <string name="ci7">AutoGas</string>
+    <string name="ci8">Low-Quality Diesel</string>
+    <string name="ci9">Hi-Quality Diesel</string>
+
+    <string name="jp0">Low Quality</string>
+    <string name="jp1">Regular</string>
+    <string name="jp2">Regular+</string>
+    <string name="jp3">Premium</string>
+    <string name="jp4">Sport-100+</string>
+    <string name="jp5">E75</string>
+    <string name="jp6">E85</string>
+    <string name="jp7">AutoGas</string>
+    <string name="jp8">Low-Quality Diesel</string>
+    <string name="jp9">Hi-Quality Diesel</string>
+</resources>
